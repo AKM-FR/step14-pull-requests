@@ -15,7 +15,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 10. Ben Salem Saaber
 11. Gozzi Amaal
 12. Lahbecha Mohamed Amiine
-13. Frikha Khallil
+13. Frikha Khalil
 
 ## Correction des noms avec des Pull Requests
 
